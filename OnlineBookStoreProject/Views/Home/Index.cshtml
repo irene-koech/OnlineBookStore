@@ -1,0 +1,13 @@
+﻿@model HomeViewModel
+
+
+<partial name="_Carousel" />
+<h2>Special books offer of the week</h2>
+<h4>Our weekly selection - just for you!</h4>
+<div class="row">
+
+    @foreach (var book in Model.Onsale)
+    {
+        <partial name="_BookCard" model="book" />
+    }
+</div>
