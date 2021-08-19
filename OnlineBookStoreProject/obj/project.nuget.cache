@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Q+6J3LZFZgTo5wE8jgsb3T3qU+BycSlPpXApcrtBulobfhB6yfZv8Re+D7EfeJqUXH5AR/zXvuGDwJ8tJkQDQ==",
+  "dgSpecHash": "avqjtj5dRJCkwhmBWZ8xqo0Mi66zNf2UFfd1+xYVUhiw2FrEqaJwQ2+tV6pEsrC39+rQ96PDqS8xM3adC2gBtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Irene Koech\\source\\repos\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj",
+  "projectFilePath": "C:\\Users\\Irene Koech\\Source\\Repos\\irene-koech\\OnlineBookStore\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irene Koech\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.16\\microsoft.aspnetcore.cryptography.internal.3.1.16.nupkg.sha512",
     "C:\\Users\\Irene Koech\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.16\\microsoft.aspnetcore.cryptography.keyderivation.3.1.16.nupkg.sha512",

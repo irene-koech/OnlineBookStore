@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irene Koech\\source\\repos\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj": {}
+    "C:\\Users\\Irene Koech\\Source\\Repos\\irene-koech\\OnlineBookStore\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irene Koech\\source\\repos\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj": {
+    "C:\\Users\\Irene Koech\\Source\\Repos\\irene-koech\\OnlineBookStore\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irene Koech\\source\\repos\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj",
+        "projectUniqueName": "C:\\Users\\Irene Koech\\Source\\Repos\\irene-koech\\OnlineBookStore\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj",
         "projectName": "OnlineBookStoreProject",
-        "projectPath": "C:\\Users\\Irene Koech\\source\\repos\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj",
+        "projectPath": "C:\\Users\\Irene Koech\\Source\\Repos\\irene-koech\\OnlineBookStore\\OnlineBookStoreProject\\OnlineBookStoreProject.csproj",
         "packagesPath": "C:\\Users\\Irene Koech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irene Koech\\source\\repos\\OnlineBookStoreProject\\obj\\",
+        "outputPath": "C:\\Users\\Irene Koech\\Source\\Repos\\irene-koech\\OnlineBookStore\\OnlineBookStoreProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irene Koech\\AppData\\Roaming\\NuGet\\NuGet.Config",

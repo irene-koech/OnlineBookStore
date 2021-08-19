@@ -38,8 +38,6 @@
           "Microsoft.EntityFrameworkCore": "3.1.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.16",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.16",
-          "Twitter.Bootstrap": "3.0.1.1",
-          "bootstrap": "3.4.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -310,12 +308,6 @@
           "OnlineBookStoreProject.dll": {}
         }
       },
-      "bootstrap/3.4.1": {
-        "dependencies": {
-          "jQuery": "1.9.1"
-        }
-      },
-      "jQuery/1.9.1": {},
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.16": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -1665,11 +1657,6 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
-        }
-      },
-      "Twitter.Bootstrap/3.0.1.1": {
-        "dependencies": {
-          "bootstrap": "3.4.1"
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3252,20 +3239,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "bootstrap/3.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-rnqnZV4sFAgB240hnLRwqoUaV2DfzrYsc6PbsYzRTObrrucLZyvb+8F1yTVT1sDbXMi/NXlyRmiL6wF+d4ZJMA==",
-      "path": "bootstrap/3.4.1",
-      "hashPath": "bootstrap.3.4.1.nupkg.sha512"
-    },
-    "jQuery/1.9.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-HiX9icLyiJGgiL5EOIn0d1MBPHVV2M9mzWT4mANdniDNR51RvAFTyKEXEd2+5yQJ4PJ5xePOR61Vjj/omQzYcw==",
-      "path": "jquery/1.9.1",
-      "hashPath": "jquery.1.9.1.nupkg.sha512"
-    },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.16": {
       "type": "package",
       "serviceable": true,
@@ -4077,13 +4050,6 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
-    },
-    "Twitter.Bootstrap/3.0.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9SzxEOEB/rKKeTO/2Tv9uPRzQg/chRfofY9yZ71Sgpxfubp1IXiQlRRFc7IhH+fxo3S/u0umS4dUSgHeYnFIsw==",
-      "path": "twitter.bootstrap/3.0.1.1",
-      "hashPath": "twitter.bootstrap.3.0.1.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
